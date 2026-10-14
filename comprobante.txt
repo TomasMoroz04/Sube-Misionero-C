@@ -1,0 +1,9 @@
+
+--------------------------------------
+COMPROBANTE DE RECARGA
+DNI: 43332664
+Nro. Control: 0
+Monto: 2000.00
+Boca de Pago: RapiPago
+Fecha y hora actual: 2023-11-22 20:13:44
+--------------------------------------

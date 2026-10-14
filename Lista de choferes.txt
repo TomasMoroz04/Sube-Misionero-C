@@ -1,0 +1,143 @@
+Persona 1:
+DNI: 30000001
+Nombre y Apellido: Ana Rodriguez
+Dirección: Av. San Martin 123, Posadas, Misiones
+Fecha de Nacimiento: 15/05/1985
+Teléfono Argentino: 3764123456
+Email: ana.rodriguez@gmail.com
+
+Persona 2:
+DNI: 30000002
+Nombre y Apellido: Carlos Martinez
+Dirección: Calle Belgrano 456, Posadas, Misiones
+Fecha de Nacimiento: 21/09/1985
+Teléfono Argentino: 3764789012
+Email: carlos.martinez@gmail.com
+
+Persona 3:
+DNI: 30000003
+Nombre y Apellido: Sofia Lopez
+Dirección: Av. Roque Perez 789, Posadas, Misiones
+Fecha de Nacimiento: 10/12/1985
+Teléfono Argentino: 3764234567
+Email: sofia.lopez@gmail.com
+
+Persona 4:
+DNI: 30000004
+Nombre y Apellido: Juan Gonzalez
+Dirección: Calle Sarmiento 234, Posadas, Misiones
+Fecha de Nacimiento: 05/03/1985
+Teléfono Argentino: 3764123456
+Email: juan.gonzalez@gmail.com
+
+Persona 5:
+DNI: 30000005
+Nombre y Apellido: Maria Perez
+Dirección: Av. Mitre 567, Posadas, Misiones
+Fecha de Nacimiento: 17/07/1985
+Teléfono Argentino: 3764789012
+Email: maria.perez@gmail.com
+
+Persona 6:
+DNI: 30000006
+Nombre y Apellido: Pablo Rodriguez
+Dirección: Calle Ayacucho 890, Posadas, Misiones
+Fecha de Nacimiento: 02/11/1985
+Teléfono Argentino: 3764123456
+Email: pablo.rodriguez@gmail.com
+
+Persona 7:
+DNI: 30000007
+Nombre y Apellido: Laura Sanchez
+Dirección: Av. Uruguay 1234, Posadas, Misiones
+Fecha de Nacimiento: 30/04/1985
+Teléfono Argentino: 3764789012
+Email: laura.sanchez@gmail.com
+
+Persona 8:
+DNI: 30000008
+Nombre y Apellido: Luis Fernandez
+Dirección: Calle San Lorenzo 567, Posadas, Misiones
+Fecha de Nacimiento: 19/08/1985
+Teléfono Argentino: 3764234567
+Email: luis.fernandez@gmail.com
+
+Persona 9:
+DNI: 30000009
+Nombre y Apellido: Ana Martinez
+Dirección: Av. Belgrano 789, Posadas, Misiones
+Fecha de Nacimiento: 14/12/1985
+Teléfono Argentino: 3764123456
+Email: ana.martinez@gmail.com
+
+Persona 10:
+DNI: 30000010
+Nombre y Apellido: Carlos Gonzalez
+Dirección: Calle Mitre 123, Posadas, Misiones
+Fecha de Nacimiento: 26/06/1985
+Teléfono Argentino: 3764789012
+Email: carlos.gonzalez@gmail.com
+
+Persona 11:
+DNI: 30000011
+Nombre y Apellido: Esteban Perez
+Dirección: Av. San Martin 456, Posadas, Misiones
+Fecha de Nacimiento: 07/10/1985
+Teléfono Argentino: 3764123456
+Email: esteban.perez@gmail.com
+
+Persona 12:
+DNI: 30000012
+Nombre y Apellido: Laura Rodrguez
+Dirección: Calle Ayacucho 234, Posadas, Misiones
+Fecha de Nacimiento: 18/01/1985
+Teléfono Argentino: 3764789012
+Email: laura.rodriguez@gmail.com
+
+Persona 13:
+DNI: 30000013
+Nombre y Apellido: Marcos Martinez
+Dirección: Av. Uruguay 789, Posadas, Misiones
+Fecha de Nacimiento: 12/03/1985
+Teléfono Argentino: 3764234567
+Email: marcos.martinez@gmail.com
+
+Persona 14:
+DNI: 30000014
+Nombre y Apellido: Valentina Lopez
+Dirección: Calle San Lorenzo 567, Posadas, Misiones
+Fecha de Nacimiento: 23/09/1985
+Teléfono Argentino: 3764123456
+Email: valentina.lopez@gmail.com
+
+Persona 15:
+DNI: 30000015
+Nombre y Apellido: Juan Sanchez
+Dirección: Av. Belgrano 1234, Posadas, Misiones
+Fecha de Nacimiento: 11/05/1985
+Teléfono Argentino: 3764789012
+Email: juan.sanchez@gmail.com
+
+Persona 16:
+DNI: 30000016
+Nombre y Apellido: Carolina Gonzalez
+Dirección: Calle Mitre 456, Posadas, Misiones
+Fecha de Nacimiento: 05/02/1985
+Teléfono Argentino: 3764123456
+Email: carolina.gonzalez@gmail.com
+
+Persona 17:
+DNI: 30000017
+Nombre y Apellido: Andres Martinez
+Dirección: Av. San Martin 123, Posadas, Misiones
+Fecha de Nacimiento: 28/02/1985
+Teléfono Argentino: 3764123452
+Email: andres.martinez@gmail.com
+
+Persona 18:
+DNI: 30000018
+Nombre y Apellido: Fran Perez
+Dirección: Av. Lavalle 123, Posadas, Misiones
+Fecha de Nacimiento: 28/02/1985
+Teléfono Argentino: 3764123946
+Email: fran.perez@gmail.com
